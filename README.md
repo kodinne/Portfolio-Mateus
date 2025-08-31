@@ -3,7 +3,7 @@
 
 ---
 
-## Sobre este portfólio
+## Sobre este repositório
 Este repositório contém meu **portfólio pessoal**, desenvolvido para organizar e apresentar meus projetos enquanto aprendo **Desenvolvimento Full Stack com JavaScript**.  
 Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evolução futura para **Node.js (back-end)** e **Flutter (mobile)**.
 
@@ -23,37 +23,35 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 
 ## Projetos atuais
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| Exercícios Senac FullStack | Conjunto de exercícios práticos de HTML, CSS e JS do curso SENAC RJ | [GitHub](https://github.com/kodinne/Exerc-cios-Senac-FullStack-) |
-| Portfólio Mateus | Este portfólio pessoal, mostrando meus projetos e habilidades | [GitHub](https://github.com/kodinne/Portfolio-Mateus) |
+| Projeto | Status | Descrição | Link |
+|---------|--------|-----------|------|
+| Calculadora | ✅ Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/calculadora) |
+| Jogo da Adivinhação | ✅ Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/jogo-adivinhacao) |
 
----
+## Próximos projetos planejados 
 
-## Próximos projetos planejados
+### Fase 1 – Front-End (HTML + CSS + JS)
+- To-Do com interface – CRUD no navegador, usando `localStorage` 
+- Relógio / Timer / Pomodoro – Manipulação de DOM e eventos  
+- Formulário com validação – Máscaras e mensagens de erro  
 
-### Fase 1 – Front-End
-- **To-Do List com interface** – CRUD no navegador usando `localStorage`  
-- **Relógio Digital / Timer / Pomodoro** – Manipulação de DOM e eventos  
-- **Formulário com Validação** – Validação de inputs e UX básica  
+### Fase 2 – Consumindo APIs Públicas
+- Pokédex ou Lista de Personagens – Fetch, paginação, busca, loading/erro  
+- Consulta de CEP – ViaCEP, auto-preenchimento de endereço  
+- Clima da sua cidade – API de tempo, ícones e mensagens de erro  
 
-### Fase 2 – Consumindo APIs
-- **Pokédex** – Cards interativos consumindo PokeAPI  
-- **Consulta de CEP** – Busca de endereços via ViaCEP  
-- **Clima da sua cidade** – API de clima com ícones e estados de erro  
-
-### Fase 3 – Back-End
-- **API de Tarefas** – CRUD completo com banco de dados  
-- **Autenticação básica** – Cadastro/login com JWT e proteção de rotas  
-- **Upload de arquivos** – Validação de arquivos e armazenamento  
+### Fase 3 – Back-End (Node.js + Express + DB)
+- API de Tarefas – CRUD com validação e banco de dados  
+- Autenticação básica – Cadastro/login com JWT e proteção de rotas  
+- Upload de arquivos – Validação de tipo e tamanho, serve estático  
 
 ### Fase 4 – Full Stack
-- **To-Do Full Stack** – Front + API + autenticação  
-- **Blog simples** – Posts, comentários e editor Markdown  
-- **Mini e-commerce fake** – Catálogo, carrinho e checkout simulado  
+- To-Do Full Stack – Front SPA simples + API própria + autenticação  
+- Blogzinho – Posts, comentários e editor Markdown  
+- Mini catálogo / e-commerce fake – Lista de produtos, carrinho e checkout simulado  
 
 ### Fase 5 – Mobile (Flutter)
-- **To-Do Mobile** – Sincronização offline/online  
-- **App de Listagem** – Consumindo API própria com favoritos e busca  
+- To-Do Mobile – Offline-first + sincronização com API quando online  
+- App de Listagem – Consome a mesma API do back-end, com busca e favoritos  
 
 > Estes projetos serão adicionados gradualmente, mostrando meu aprendizado e evolução como desenvolvedor.
