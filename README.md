@@ -28,13 +28,13 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 | Calculadora | ✅ Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/calculadora) |
 | Jogo da Adivinhação | ✅ Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/jogo-adivinhacao) |
 | To-Do List | ✅ Concluído | Lista de tarefas com armazenamento no `localStorage`, adiciona e mantém tarefas salvas mesmo após atualizar a página | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Projetos%20b%C3%A1sicos/to-do-list) |
+| Relógio Digital | ✅ Concluído | Relógio que mostra horas, minutos e segundos em tempo real, feito com manipulação de DOM | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Projetos%20b%C3%A1sicos/relogio-digital) |
 
 ---
 
 ## Próximos projetos planejados 
 
 ### Fase 1 – Front-End (HTML + CSS + JS)
-- Relógio / Timer / Pomodoro – Manipulação de DOM e eventos  
 - Formulário com validação – Máscaras e mensagens de erro  
 
 ### Fase 2 – Consumindo APIs Públicas
@@ -56,5 +56,10 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 - To-Do Mobile – Offline-first + sincronização com API quando online  
 - App de Listagem – Consome a mesma API do back-end, com busca e favoritos  
 
+---
 
-> Estes projetos serão adicionados gradualmente, mostrando meu aprendizado e evolução como desenvolvedor.
+## Como rodar os projetos
+1. Clone o repositório ou baixe os arquivos.
+2. Entre na pasta do projeto desejado, por exemplo:  
+   ```bash
+   cd Front-end/Projetos\ básicos/to-do-list
