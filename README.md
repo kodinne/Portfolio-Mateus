@@ -27,11 +27,13 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 |---------|--------|-----------|------|
 | Calculadora | ✅ Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/calculadora) |
 | Jogo da Adivinhação | ✅ Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/jogo-adivinhacao) |
+| To-Do List | ✅ Concluído | Lista de tarefas com armazenamento no `localStorage`, adiciona e mantém tarefas salvas mesmo após atualizar a página | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Projetos%20b%C3%A1sicos/to-do-list) |
+
+---
 
 ## Próximos projetos planejados 
 
 ### Fase 1 – Front-End (HTML + CSS + JS)
-- To-Do com interface – CRUD no navegador, usando `localStorage` 
 - Relógio / Timer / Pomodoro – Manipulação de DOM e eventos  
 - Formulário com validação – Máscaras e mensagens de erro  
 
@@ -53,5 +55,6 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 ### Fase 5 – Mobile (Flutter)
 - To-Do Mobile – Offline-first + sincronização com API quando online  
 - App de Listagem – Consome a mesma API do back-end, com busca e favoritos  
+
 
 > Estes projetos serão adicionados gradualmente, mostrando meu aprendizado e evolução como desenvolvedor.
