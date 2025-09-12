@@ -4,8 +4,10 @@
 ---
 
 ## Sobre este repositório
-Este repositório contém meu **portfólio pessoal**, desenvolvido para organizar e apresentar meus projetos enquanto aprendo **Desenvolvimento Full Stack com JavaScript**.  
-Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evolução futura para **Node.js (back-end)** e **Flutter (mobile)**.
+Este repositório contém meu portfólio pessoal, desenvolvido para organizar e apresentar meus projetos enquanto aprendo Desenvolvimento Full Stack com JavaScript.  
+Ele mostra meu crescimento, habilidades em HTML, CSS, JavaScript, e evolução futura para Node.js (back-end) e Flutter (mobile).
+
+**Aviso:** Novos projetos serão adicionados conforme eu for criando e evoluindo minhas habilidades.
 
 ---
 
@@ -25,41 +27,36 @@ Ele mostra meu crescimento, habilidades em **HTML, CSS, JavaScript**, e evoluç�
 
 | Projeto | Status | Descrição | Link |
 |---------|--------|-----------|------|
-| Calculadora | ✅ Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/calculadora) |
-| Jogo da Adivinhação | ✅ Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Projetos%20b%C3%A1sicos/jogo-adivinhacao) |
-| To-Do List | ✅ Concluído | Lista de tarefas com armazenamento no `localStorage`, adiciona e mantém tarefas salvas mesmo após atualizar a página | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Projetos%20b%C3%A1sicos/to-do-list) |
-| Relógio Digital | ✅ Concluído | Relógio que mostra horas, minutos e segundos em tempo real, feito com manipulação de DOM | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Projetos%20b%C3%A1sicos/relogio-digital) |
+| Calculadora | Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/calculadora) |
+| Jogo da Adivinhação | Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Jogo%20de%20adivinha%C3%A7%C3%A3o) |
+| To-Do List | Concluído | Lista de tarefas com armazenamento no `localStorage`, mantém tarefas salvas mesmo após atualizar a página | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/To-Do%20com%20interface) |
+| Relógio Digital | Concluído | Relógio que mostra horas, minutos e segundos em tempo real, feito com manipulação de DOM | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Rel%C3%B3gio%20Digital) |
 
 ---
 
-## Próximos projetos planejados 
+## Próximos projetos planejados
 
 ### Fase 1 – Front-End (HTML + CSS + JS)
-- Formulário com validação – Máscaras e mensagens de erro  
+- Formulário com validação: máscaras e mensagens de erro  
 
 ### Fase 2 – Consumindo APIs Públicas
-- Pokédex ou Lista de Personagens – Fetch, paginação, busca, loading/erro  
-- Consulta de CEP – ViaCEP, auto-preenchimento de endereço  
-- Clima da sua cidade – API de tempo, ícones e mensagens de erro  
+- Pokédex ou lista de personagens: fetch, paginação, busca, loading/erro  
+- Consulta de CEP: ViaCEP, auto-preenchimento de endereço  
+- Clima da sua cidade: API de tempo, ícones e mensagens de erro  
 
 ### Fase 3 – Back-End (Node.js + Express + DB)
-- API de Tarefas – CRUD com validação e banco de dados  
-- Autenticação básica – Cadastro/login com JWT e proteção de rotas  
-- Upload de arquivos – Validação de tipo e tamanho, serve estático  
+- API de Tarefas: CRUD com validação e banco de dados  
+- Autenticação básica: cadastro/login com JWT e proteção de rotas  
+- Upload de arquivos: validação de tipo e tamanho, serve estático  
 
 ### Fase 4 – Full Stack
-- To-Do Full Stack – Front SPA simples + API própria + autenticação  
-- Blogzinho – Posts, comentários e editor Markdown  
-- Mini catálogo / e-commerce fake – Lista de produtos, carrinho e checkout simulado  
+- To-Do Full Stack: front SPA simples + API própria + autenticação  
+- Blog: posts, comentários e editor Markdown  
+- Mini catálogo / e-commerce fake: lista de produtos, carrinho e checkout simulado  
 
 ### Fase 5 – Mobile (Flutter)
-- To-Do Mobile – Offline-first + sincronização com API quando online  
-- App de Listagem – Consome a mesma API do back-end, com busca e favoritos  
+- To-Do Mobile: offline-first + sincronização com API quando online  
+- App de listagem: consome a mesma API do back-end, com busca e favoritos  
 
 ---
 
-## Como rodar os projetos
-1. Clone o repositório ou baixe os arquivos.
-2. Entre na pasta do projeto desejado, por exemplo:  
-   ```bash
-   cd Front-end/Projetos\ básicos/to-do-list
