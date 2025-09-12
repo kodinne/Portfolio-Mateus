@@ -59,9 +59,3 @@ Ele mostra meu crescimento, habilidades em HTML, CSS, JavaScript, e evolução f
 - App de listagem: consome a mesma API do back-end, com busca e favoritos  
 
 ---
-
-## Como rodar os projetos
-1. Clone o repositório ou baixe os arquivos.
-2. Entre na pasta do projeto desejado, por exemplo:  
-   ```bash
-   cd Front-end/To-Do\ com\ interface
