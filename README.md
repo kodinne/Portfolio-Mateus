@@ -25,12 +25,12 @@ Ele mostra meu crescimento, habilidades em HTML, CSS, JavaScript, e evolução f
 
 ## Projetos atuais
 
-| Projeto | Status | Descrição | Link |
-|---------|--------|-----------|------|
-| Calculadora | Concluído | Calculadora simples feita com HTML, CSS e JavaScript | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/calculadora) |
-| Jogo da Adivinhação | Concluído | Jogo para adivinhar um número aleatório, com feedback de maior/menor | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Jogo%20de%20adivinha%C3%A7%C3%A3o) |
-| To-Do List | Concluído | Lista de tarefas com armazenamento no `localStorage`, mantém tarefas salvas mesmo após atualizar a página | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/To-Do%20com%20interface) |
-| Relógio Digital | Concluído | Relógio que mostra horas, minutos e segundos em tempo real, feito com manipulação de DOM | [Ver Projeto](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Rel%C3%B3gio%20Digital) |
+| Projeto | Status | Código | Demo |
+|---------|--------|--------|------|
+| Calculadora | Concluído | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/calculadora) | [Abrir Projeto](https://kodinne.github.io/Portfolio-Mateus/Front-end/calculadora/) |
+| Jogo da Adivinhação | Concluído | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Jogo%20de%20adivinha%C3%A7%C3%A3o) | [Abrir Projeto](https://kodinne.github.io/Portfolio-Mateus/Front-end/Jogo%20de%20adivinha%C3%A7%C3%A3o/) |
+| To-Do List | Concluído | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/To-Do%20com%20interface) | [Abrir Projeto](https://kodinne.github.io/Portfolio-Mateus/Front-end/To-Do%20com%20interface/) |
+| Relógio Digital | Concluído | [GitHub](https://github.com/kodinne/Portfolio-Mateus/tree/main/Front-end/Rel%C3%B3gio%20Digital) | [Abrir Projeto](https://kodinne.github.io/Portfolio-Mateus/Front-end/Rel%C3%B3gio%20Digital/) |
 
 ---
 
@@ -60,3 +60,8 @@ Ele mostra meu crescimento, habilidades em HTML, CSS, JavaScript, e evolução f
 
 ---
 
+## Como rodar os projetos
+1. Clone o repositório ou baixe os arquivos.
+2. Entre na pasta do projeto desejado, por exemplo:  
+   ```bash
+   cd Front-end/To-Do\ com\ interface
