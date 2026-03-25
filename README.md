@@ -6,18 +6,19 @@
 ## Sobre este repositório
 
 Este repositório reúne meus projetos de desenvolvimento web, com foco em aplicações Full Stack e frontend.  
-Aqui estão projetos que demonstram minha evolução, desde aplicações frontend até sistemas mais completos integrando backend e banco de dados.
+Os projetos aqui apresentados demonstram minha evolução técnica, desde aplicações frontend até sistemas mais completos com backend próprio e banco de dados.
 
-Busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa evoluir tecnicamente e trabalhar com projetos reais.
+Atualmente busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa evoluir tecnicamente e trabalhar com projetos reais.
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -28,11 +29,11 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa evol
 
 ---
 
-# Projetos em Destaque
+# Projetos Full Stack
 
-### Em desenvolvimento
-
-🚧 Novos projetos Full Stack em breve
+| Projeto | Descrição | Código | Demo |
+|---------|-----------|--------|------|
+| RESTooq ERP | Sistema ERP Full Stack com controle de estoque, vendas, clientes, devoluções, dashboard e relatórios | [GitHub](https://github.com/kodinne/Restooq/tree/developing) | — |
 
 ---
 
@@ -47,25 +48,20 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa evol
 
 ---
 
-## Próximos Projetos
-
-- Aplicações consumindo APIs externas
-- Projetos Full Stack com backend próprio
-- Aplicações com banco de dados
-- Projetos com autenticação de usuários
-
----
-
 ## Sobre mim
 
-- Desenvolvedor Full Stack Júnior
-- Formação Full Stack — SENAC RJ
-- Análise e Desenvolvimento de Sistemas — Estácio
-- Interesse em aplicações web e backend
+- Desenvolvedor Full Stack Júnior  
+- Formação Full Stack — SENAC RJ  
+- Graduando em Análise e Desenvolvimento de Sistemas — Estácio  
+- Interesse em desenvolvimento web e backend  
+- Buscando primeira oportunidade profissional  
 
 ---
 
 ## Contato
 
-GitHub: https://github.com/kodinne  
-LinkedIn: https://www.linkedin.com/in/mateus-marques-bb1625285/
+GitHub  
+https://github.com/kodinne  
+
+LinkedIn  
+https://www.linkedin.com/in/mateus-marques-bb1625285/
